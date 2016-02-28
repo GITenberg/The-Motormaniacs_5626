@@ -1,0 +1,29 @@
+_repo: The-Motormaniacs_5626
+creator:
+  author:
+    agent_name: Osbourne, Lloyd
+    aliases:
+    - Osbourne, Samuel Lloyd
+    - Osborne, Lloyd
+    birthdate: 1868
+    deathdate: 1947
+    gutenberg_agent_id: '512'
+    url: http://www.gutenberg.org/2009/agents/512
+    wikipedia: http://en.wikipedia.org/wiki/Lloyd_Osbourne
+description: The motormaniacs -- The great bubble syndicate -- Coal oil Johnny --
+  Jones.
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5626'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Social life and customs -- 20th century -- Fiction'
+- !lcc 'PS'
+tableOfContents: The motormaniacs -- The great bubble syndicate -- Coal oil Johnny
+  -- Jones.
+title: The Motormaniacs
+url: http://www.gutenberg.org/ebooks/5626
