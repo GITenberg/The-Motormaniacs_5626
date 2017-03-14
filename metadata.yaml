@@ -1,5 +1,8 @@
 _repo: The-Motormaniacs_5626
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Osbourne, Lloyd
@@ -13,6 +16,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Lloyd_Osbourne
 description: The motormaniacs -- The great bubble syndicate -- Coal oil Johnny --
   Jones.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5626#The-Motormaniacs
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
 identifiers:
