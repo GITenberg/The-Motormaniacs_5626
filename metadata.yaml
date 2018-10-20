@@ -1,5 +1,5 @@
 _repo: The-Motormaniacs_5626
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -29,6 +29,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'United States -- Social life and customs -- 20th century -- Fiction'
 - !lcc 'PS'
+- GITenberg
 tableOfContents: The motormaniacs -- The great bubble syndicate -- Coal oil Johnny
   -- Jones.
 title: The Motormaniacs
